@@ -1,2 +1,2 @@
 # Javascript-Fundamentals
-Javascript fundamentals - pig game
+Javascript fundamentals 
